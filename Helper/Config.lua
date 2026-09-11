@@ -5,7 +5,7 @@
 return {
     trialScripts = {
         ["Speedy Enemies"]    = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Speedy.lua", -- done
-        ["Glass"]             = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Glass.lua,
+        ["Glass"]             = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Glass.lua",
         ["Quarantine"]        = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Quarantine.lua",
         ["Fog"]               = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Fog.lua",
         ["Limitation"]        = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Limitation.lua", -- done
