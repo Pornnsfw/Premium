@@ -1,4 +1,3 @@
-local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/UILibrary.lua"))()
 TDS:RemoveIndex()
 TDS:Loadout("Soldier", "Assassin", "None", "None", "None")
 TDS:Mode("Molten")
