@@ -11,10 +11,10 @@ return {
         ["Limitation"]        = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Limitation.lua", -- done
         ["Flying"]            = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Flying.lua", -- done
         ["Jailed"]            = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Jailed.lua", -- done
-        ["Exploding Enemies"] = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Exploading.lua", -- done
+        ["Exploding Enemies"] = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Exploading%20Enemies.lua", -- done
         ["Inflation"]         = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Inflation.lua", -- done 
         ["Committed"]         = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Committed.lua", -- done
-        ["Hidden Enemies"]            = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Hidden.lua", -- done
+        ["Hidden Enemies"]    = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Hidden.lua", -- done
         ["Broke"]             = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Broke.lua", -- done 
         ["Healthy Enemies"]   = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Healthy.lua", -- done
     },
