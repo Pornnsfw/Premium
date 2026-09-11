@@ -1,3 +1,5 @@
+wait(1)
+TDS:RemoveIndex()
 TDS:Loadout("Soldier", "Assassin", "None", "None", "None")
 TDS:Mode("Molten")
 TDS:GameInfo("Lay By", {})
