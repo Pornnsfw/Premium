@@ -4,19 +4,19 @@
 
 return {
     trialScripts = {
-        ["Speedy Enemies"]    = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Speedy.lua", -- done
-        ["Glass"]             = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Glass.lua",
-        ["Quarantine"]        = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Quarantine.lua",
-        ["Fog"]               = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Fog.lua",
-        ["Limitation"]        = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Limitation.lua", -- done
-        ["Flying"]            = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Flying.lua", -- done
-        ["Jailed"]            = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Jailed.lua", -- done
+        ["Speedy Enemies"]    = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Speedy.lua", -- done
+        ["Glass"]             = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Glass.lua,
+        ["Quarantine"]        = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Quarantine.lua",
+        ["Fog"]               = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Fog.lua",
+        ["Limitation"]        = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Limitation.lua", -- done
+        ["Flying"]            = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Flying.lua", -- done
+        ["Jailed"]            = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Jailed.lua", -- done
         ["Exploding Enemies"] = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Exploading%20Enemies.lua", -- done
-        ["Inflation"]         = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Inflation.lua", -- done 
-        ["Committed"]         = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Committed.lua", -- done
-        ["Hidden Enemies"]    = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Hidden.lua", -- done
-        ["Broke"]             = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Broke.lua", -- done 
-        ["Healthy Enemies"]   = "https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/Standard/Healthy.lua", -- done
+        ["Inflation"]         = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Inflation.lua", -- done 
+        ["Committed"]         = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Committed.lua", -- done
+        ["Hidden Enemies"]    = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Hidden.lua", -- done
+        ["Broke"]             = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Broke.lua", -- done 
+        ["Healthy Enemies"]   = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Healthy%20Enemies.lua", -- done
     },
 
     fallbackScripts = {
