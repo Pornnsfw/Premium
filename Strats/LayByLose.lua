@@ -1,7 +1,5 @@
 TDS:RemoveIndex()
 TDS:Loadout("Soldier", "Assassin", "None", "None", "None")
-TDS:Mode("Molten")
-TDS:GameInfo("Lay By", {})
 
 TDS:Place("Soldier", -2.623168468475342, 262.99998474121094, 271.58221435546875)
 TDS:Upgrade(1)
