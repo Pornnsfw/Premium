@@ -174,7 +174,7 @@ return {
         SkillTree = {},
         Maps = {"Lay By", "Simplicity"},
         Scripts = {
-            ["Lay By"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
+            ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Fallback/MoltenLayby.lua",
             ["Simplicity"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
         },
     },
