@@ -3,10 +3,10 @@ TDS:Loadout("Hacker", "Gatling Gun", "Militant", "Mercenary Base", "DJ Booth")
 TDS:Mode("Trial")
 
 TDS:Place("Militant", 18.596546173095703, 26.553707122802734, -156.36927795410156)
-
+TDS:Ready()
 -- [ Wave 1 ] --
 TDS:Upgrade(1)
-TDS:Ready()
+
 
 local Globals = getgenv()
 Globals.AutoReady = false
