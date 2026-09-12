@@ -6,6 +6,7 @@ TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, ExplodingEnemies = t
 TDS:Place("Trapper", 2.771076202392578, 262.99998474121094, 224.7090301513672)
 TDS:Ready()
 
+local Globals = getgenv()
 Globals.AutoGatling = true
 Globals.AutoRejoin = true
 Globals.AutoMercenary = true
