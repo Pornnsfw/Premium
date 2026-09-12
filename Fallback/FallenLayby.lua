@@ -1,4 +1,4 @@
-local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/UILibrary.lua"))()
+
 TDS:Loadout("Trapper", "Medic", "Gatling Gun", "Mercenary Base", "Hacker")
 TDS:Mode("Fallen")
 TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, Fog = true, Limitation = true, Committed = true, Quarantine = true, ExplodingEnemies = true})
@@ -6,6 +6,7 @@ TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, Fog = true, Limitati
 TDS:Place("Trapper", 2.5728321075439453, 262.99998474121094, 224.7594757080078)
 TDS:Ready()
 
+local Globals = getgenv()
 Globals.AutoGatling = true
 Globals.AutoRejoin = true
 Globals.AutoMercenary = true
