@@ -172,7 +172,7 @@ return {
         Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
         Golden = {},
         SkillTree = {},
-        Maps = {"Lay By", "Simplicity"},
+        Maps = {"Lay By"},
         Scripts = {
             ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Fallback/MoltenLayby.lua",
         },
@@ -182,7 +182,7 @@ return {
         Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
         Golden = {},
         SkillTree = {},
-        Maps = {"Lay By", "Simplicity"},
+        Maps = {"Lay By"},
         Scripts = {
             ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Fallback/FallenLayby.lua",
         },
