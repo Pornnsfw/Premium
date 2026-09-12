@@ -1,3 +1,5 @@
+local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/UILibrary.lua"))()
+
 TDS:Loadout("Trapper", "Medic", "Gatling Gun", "Mercenary Base", "Hacker")
 TDS:Mode("Fallen")
 TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, Fog = true, Limitation = true, Committed = true, Quarantine = true, ExplodingEnemies = true})
@@ -182,8 +184,8 @@ TDS:SetOption(2, "Trap", "Bear Traps")
 TDS:SetOption(1, "Trap", "Bear Traps")
 
 -- [ Wave 38 ] --
-TDS:Place("Hacker", -2.624220848083496, 252.99998474121094, 271.65789794921875)
-TDS:Place("Hacker", 2.6694679260253906, 252.99998474121094, 282.5885925292969)
+TDS:Place("Hacker", -2.736239433288574, 252.99998474121094, 155.2749786376953)
+TDS:Place("Hacker", -2.736239433288574, 252.99998474121094, 155.2749786376953)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
