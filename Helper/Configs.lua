@@ -219,11 +219,7 @@ return {
     },
 
     fallbackModesList = {
-        "Easy",
-        "Casual",
-        "Intermediate",
         "Molten",
         "Fallen",
-        "Frost",
     },
 }
