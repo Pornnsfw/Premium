@@ -6,6 +6,11 @@ TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, Fog = true, Limitati
 TDS:Place("Trapper", 2.5728321075439453, 262.99998474121094, 224.7594757080078)
 TDS:Ready()
 
+Globals.AutoGatling = true
+Globals.AutoRejoin = true
+Globals.AutoMercenary = true
+Globals.AutoBack = true
+
 -- [ Wave 1 ] --
 TDS:Upgrade(1)
 
@@ -84,6 +89,7 @@ TDS:Upgrade(9)
 TDS:Upgrade(10)
 TDS:Upgrade(10)
 TDS:Upgrade(10)
+Globals.AutoMedic = true
 
 -- [ Wave 23 ] --
 TDS:Place("Trapper", -2.9188623428344727, 262.99998474121094, 267.3076477050781)
