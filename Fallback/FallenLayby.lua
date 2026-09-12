@@ -1,4 +1,3 @@
-local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pornnsfw/UILibrary/refs/heads/main/UILibrary.lua"))()
 
 TDS:Loadout("Trapper", "Medic", "Gatling Gun", "Mercenary Base", "Hacker")
 TDS:Mode("Fallen")
