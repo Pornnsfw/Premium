@@ -5,6 +5,11 @@ TDS:GameInfo("Lay By", {HiddenEnemies = true, Glass = true, ExplodingEnemies = t
 TDS:Place("Trapper", 2.771076202392578, 262.99998474121094, 224.7090301513672)
 TDS:Ready()
 
+Globals.AutoGatling = true
+Globals.AutoRejoin = true
+Globals.AutoMercenary = true
+Globals.AutoBack = true
+
 -- [ Wave 2 ] --
 TDS:Upgrade(1)
 
@@ -48,7 +53,6 @@ TDS:Upgrade(5)
 TDS:Upgrade(5)
 
 -- [ Wave 16 ] --
-TDS:MedicSelect(6, 7)
 
 -- [ Wave 17 ] --
 TDS:Upgrade(5)
@@ -68,6 +72,8 @@ TDS:Upgrade(8)
 TDS:Upgrade(9)
 TDS:Upgrade(9)
 TDS:Upgrade(9)
+
+Globals.AutoMedic = true
 
 -- [ Wave 20 ] --
 TDS:Place("Mercenary Base", -2.5911412239074707, 262.99998474121094, 158.90745544433594)
