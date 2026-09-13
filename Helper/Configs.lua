@@ -9,7 +9,7 @@ return {
         ["Quarantine"]        = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Quarantine.lua",
         ["Fog"]               = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Fog.lua",
         ["Limitation"]        = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Limitation.lua", -- done
-        ["FlyingEnemies"]            = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Flying.lua", -- done
+        ["Flying Enemies"]            = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Flying.lua", -- done
         ["Jailed"]            = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Jailed.lua", -- done
         ["Exploding Enemies"] = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Exploading%20Enemies.lua", -- done
         ["Inflation"]         = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Trials/Inflation.lua", -- done 
