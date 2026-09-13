@@ -103,7 +103,7 @@ return {
 				["Extreme Conditioning"] = 25,
             },
         },
-        ["Hidden"] = {
+        ["Hidden Enemies"] = {
             Level = 175,
             Towers = {"Gatling Gun", "Medic", "Mercenary Base", "Militant", "DJ Booth"}, -- no gold, no skill tree, no hardcore
             Golden = {},
