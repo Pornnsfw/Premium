@@ -59,7 +59,7 @@ return {
             Golden = {},
             SkillTree = {},
         },
-        ["Flying"] = {
+        ["Flying Enemies"] = {
             Level = 175,
             Towers = {"Militant", "Gatling Gun", "Medic", "Mercenary Base", "DJ Booth"}, -- no gold, no skill tree, no hardcore
             Golden = {},
