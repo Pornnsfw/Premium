@@ -59,7 +59,7 @@ return {
             Golden = {},
             SkillTree = {},
         },
-        ["Flying"] = {
+        ["Flying Enemies"] = {
             Level = 175,
             Towers = {"Militant", "Gatling Gun", "Medic", "Mercenary Base", "DJ Booth"}, -- no gold, no skill tree, no hardcore
             Golden = {},
@@ -172,10 +172,9 @@ return {
         Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
         Golden = {},
         SkillTree = {},
-        Maps = {"Lay By", "Simplicity"},
+        Maps = {"Lay By"},
         Scripts = {
-            ["Lay By"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
-            ["Simplicity"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
+            ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Fallback/MoltenLayby.lua",
         },
     },
     ["Fallen"] = {
@@ -183,10 +182,9 @@ return {
         Towers = {"Gatling Gun", "Trapper", "Medic", "DJ Booth", "Mercenary Base"},
         Golden = {},
         SkillTree = {},
-        Maps = {"Lay By", "Simplicity"},
+        Maps = {"Lay By"},
         Scripts = {
-            ["Lay By"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
-            ["Simplicity"] = "https://raw.githubusercontent.com/AmonguszzZ/ModdedAether/refs/heads/main/Strats/Mode.lua",
+            ["Lay By"] = "https://raw.githubusercontent.com/Pornnsfw/Premium/refs/heads/main/Fallback/FallenLayby.lua",
         },
     },
     ["Frost"] = {
@@ -208,22 +206,17 @@ return {
         "Speedy Enemies",
         "Glass",
         "Limitation",
-        "Flying",
+        "Flying Enemies",
         "Jailed",
         "Inflation",
         "Committed",
         "Hidden Enemies",
-        "Hidden",
         "Broke",
         "Healthy Enemies",
     },
 
     fallbackModesList = {
-        "Easy",
-        "Casual",
-        "Intermediate",
         "Molten",
         "Fallen",
-        "Frost",
     },
 }
